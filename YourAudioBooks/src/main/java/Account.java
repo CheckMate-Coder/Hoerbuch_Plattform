@@ -10,7 +10,7 @@ import jakarta.persistence.InheritanceType;
 import jakarta.persistence.Table;
 
 
-
+// Hallo Test
 
 @Entity
 @Inheritance(strategy=InheritanceType.SINGLE_TABLE)
